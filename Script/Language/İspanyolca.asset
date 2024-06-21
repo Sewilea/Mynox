@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d508bd913ac05fc4b8462550a7b922be, type: 3}
+  m_Name: "\u0130spanyolca"
+  m_EditorClassIdentifier: 
+  isim: Espanol
+  Texts:
+  - Un jugador
+  - Mapas
+  - Idioma
+  - Dejar
+  - Jugar el juego
+  - "Atr\xE1s"
+  - Crear el nuevo juego
+  - Empezar
+  - Borrar
+  - Nombre
+  - "Tama\xF1o Mundial"
+  - Plano
+  - normal
+  - Version 0.11
+  - Cargando...
+  - Altura
+  - Mundos diferentes
+  - Aventura
+  Parts:
+  - Bicofia
+  - "Tierra h\xFAmeda"
+  - Tierra de nieve
+  Games:
+  - Un corto descanso...
+  - Continuar
+  - "Volver al men\xFA"
+  - Inventario
+  - Cargando...
+  - Moriste
+  - Renacido
+  - "Volver al men\xFA"
+  - Ajustes
+  - Ajustes
+  - Vista de fragmentos
+  - "Vista de c\xE1mara"
+  - "Volver al men\xFA"
+  Create:
+  - Supervivencia
+  - Creativo
+  - Normal
+  - Plano
+  - "F\xE1cil"
+  - Normal
+  - "Dif\xEDcil"
+  Language_Number: 5

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d508bd913ac05fc4b8462550a7b922be, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  isim: English
+  Texts:
+  - Single Player
+  - Maps
+  - Language
+  - Quit
+  - Play the Game
+  - Back
+  - Create the new game
+  - Play
+  - Delete
+  - Name
+  - World Size
+  - Flat
+  - Normal
+  - Version 0.11
+  - Loading...
+  - Height
+  - Different World
+  - Adventure
+  Parts:
+  - Bicofia
+  - Wet Soil
+  - Snow Land
+  Games:
+  - A short break...
+  - Continue
+  - Back to Menu
+  - Inventory
+  - Loading...
+  - You died
+  - Respawn
+  - Back to Menu
+  - Settings
+  - Settings
+  - Chunk View
+  - Camera View
+  - Back to Menu
+  Create:
+  - Survival
+  - Creative
+  - Normal
+  - Flat
+  - Easy
+  - Normal
+  - Hard
+  Language_Number: 2

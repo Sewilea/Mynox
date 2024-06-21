@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d508bd913ac05fc4b8462550a7b922be, type: 3}
+  m_Name: Almanca
+  m_EditorClassIdentifier: 
+  isim: English
+  Texts:
+  - Einzelspieler
+  - Karten
+  - Sprache
+  - "Aufh\xF6ren"
+  - Das Spiel spielen
+  - "Z\xFCruck"
+  - Erstellen Sie das neue Spiel
+  - Spiel
+  - "l\xF6sche"
+  - Name
+  - "Weltgr\xF6\xDFe"
+  - Flache
+  - Schroffe
+  - Version 0.11
+  - "L\xE4dt..."
+  - "H\xF6he"
+  - Verschiedene Welten
+  - Abenteuer
+  Parts:
+  - Bikofia
+  - Nasse Erde
+  - Schneeland
+  Games:
+  - Eine kurze Pause...
+  - Fortsetze
+  - "Zur\xFCck zum Men\xFC"
+  - Inventar
+  - "L\xE4dt..."
+  - Du bist gestorben
+  - Respawnen
+  - "Zur\xFCck zum Men\xFC"
+  - Einstellungen
+  - Einstellungen
+  - Chunk-Ansicht
+  - Kameraansicht
+  - "Zur\xFCck zum Men\xFC"
+  Create:
+  - "\xDCberleben"
+  - Kreativ
+  - Normal
+  - Eben
+  - Einfach
+  - Normal
+  - Schwer
+  Language_Number: 1

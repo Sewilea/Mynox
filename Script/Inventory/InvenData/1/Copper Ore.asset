@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08a505d1dd54c41459c4b81013bc0cf8, type: 3}
+  m_Name: Copper Ore
+  m_EditorClassIdentifier: 
+  slotName: Copper Ore
+  ID: 52
+  TypeID: 1
+  UnderID: 6
+  sprite: {fileID: -2456019660222001978, guid: 4ace9bc146b8b6f4b92a23a8e196ca42, type: 3}
+  Block: {fileID: 3116485117278594779, guid: 8d4ccf994d8869d4d8902d006db33c0e, type: 3}
+  Hit_time: 0
